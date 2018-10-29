@@ -2,7 +2,7 @@
 
 This document makes a list of the common things you use in Markdown.
 
-Read the full article HERE 🔥
+Read the full article [HERE](https://medium.com/@irenetomaini1/markdown-is-golden-a67dd6916272) 🔥
 
 # 1. Code Blocks
 
